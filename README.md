@@ -95,7 +95,6 @@ Building backend applications with **Java & Spring Boot** and exploring **AI-pow
 </a>
 
 </p>
-
 ### ☕ Java • 🤖 AI • 🚀 FDE
 
 ⭐ **Thanks for visiting my profile!**
