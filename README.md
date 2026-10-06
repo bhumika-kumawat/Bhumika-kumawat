@@ -1,54 +1,107 @@
-# Hi, I'm Bhumika 👋
+<div align="center">
 
-**Java Backend Developer | Spring Boot | Generative AI | Forward Deployed Engineering**
+# 👋 Hi, I'm Bhumika Kumawat
 
-I build backend applications using **Java and Spring Boot**, with a growing focus on **AI-powered applications and real-world problem solving**.
+### ☕ Java Backend Developer | 🤖 Generative AI | 🚀 Forward Deployed Engineering
 
-Currently exploring **Spring AI, LLMs, RAG, and Forward Deployed Engineering**.
+Building backend applications with **Java & Spring Boot**  
+and exploring **AI-powered solutions with Spring AI and LLMs.**
 
----
-
-### Tech Stack
-
-**Languages:** Java, C++
-**Backend:** Spring Framework, Spring Boot, Spring Data JPA, Hibernate, REST APIs
-**Database:** MySQL, SQL
-**AI:** Spring AI, LLMs, RAG, Vector Embeddings
-**Tools:** Git, GitHub, Maven, Postman, SonarQube
+</div>
 
 ---
 
-### What I'm Working On
+## 👩‍💻 About Me
 
-* Building **Java & Spring Boot** backend projects
-* Developing applications with **Spring AI and LLMs**
-* Exploring **RAG and AI application development**
-* Strengthening **DSA and problem-solving**
-* Learning the **Forward Deployed Engineer** approach to solving customer and business problems
-
----
-
-### Coding Profiles
-
-**LeetCode** · [View Profile](https://leetcode.com/u/bhumikakumawat13/)
-**GeeksforGeeks** · [View Profile](https://www.geeksforgeeks.org/profile/bhumika13gfg)
+- 💻 Backend Developer focused on **Java & Spring Boot**
+- 🌱 Currently exploring **Generative AI, Spring AI & LLM applications**
+- 🔎 Learning **RAG, Vector Embeddings & AI application development**
+- 🚀 Exploring the **Forward Deployed Engineer** role
+- 🧩 Interested in solving real-world problems using **Backend + AI**
+- 🧠 Practicing **DSA & problem solving**
+- 📚 Currently strengthening my skills in **Java Backend & AI Engineering**
 
 ---
 
-### Featured Projects
+## 🛠️ Languages & Technologies
 
-🔹 **Spring AI Applications**
-AI-powered applications built using Spring AI and LLM integrations.
+<p align="left">
 
-🔹 **Java Backend Projects**
-REST APIs and backend applications using Spring Boot, JPA, Hibernate and MySQL.
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" width="50"/>
+</a>
+
+<a href="https://spring.io/">
+<img src="https://skillicons.dev/icons?i=spring" width="50"/>
+</a>
+
+<a href="https://spring.io/projects/spring-boot">
+<img src="https://skillicons.dev/icons?i=springboot" width="50"/>
+</a>
+
+<a href="https://hibernate.org/">
+<img src="https://skillicons.dev/icons?i=hibernate" width="50"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://www.postman.com/">
+<img src="https://skillicons.dev/icons?i=postman" width="50"/>
+</a>
+
+</p>
 
 ---
 
-### Currently Learning
+## 🤖 AI & Generative AI
 
-`Spring AI` · `LLMs` · `RAG` · `Vector Embeddings` · `AI Engineering` · `Forward Deployed Engineering`
+<p align="left">
+
+<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-7B2CBF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vector%20Embeddings-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge"/>
+
+</p>
 
 ---
 
-📫 **Open to opportunities in Java Backend, AI Engineering and Forward Deployed Engineering.**
+## 🚀 What I'm Building & Learning
+
+```text
+Java Backend
+     │
+     ├── Spring Boot
+     ├── REST APIs
+     ├── Spring Data JPA
+     ├── Hibernate
+     └── SQL
+          │
+          ▼
+     Spring AI
+          │
+          ├── LLMs
+          ├── Prompt Engineering
+          ├── RAG
+          └── Vector Embeddings
+                  │
+                  ▼
+        AI-Powered Applications
+                  │
+                  ▼
+       Forward Deployed Engineering
