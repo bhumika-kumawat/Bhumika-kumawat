@@ -93,16 +93,6 @@ Building backend applications with **Java & Spring Boot** and exploring **AI-pow
 
 ---
 
-## 📌 Featured Projects
-
-🔹 **Java & Spring Boot Projects**  
-Backend applications using Spring Boot, JPA, Hibernate, REST APIs and MySQL.
-
-🔹 **Spring AI Projects**  
-Exploring AI-powered applications using Spring AI, LLMs and RAG.
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
