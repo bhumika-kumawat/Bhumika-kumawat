@@ -77,7 +77,7 @@ Building backend applications with **Java & Spring Boot** and exploring **AI-pow
 
 ---
 
-[## 📊 Coding Profiles
+📊 Coding Profiles
 
 <p align="left">
 
