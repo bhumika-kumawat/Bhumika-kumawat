@@ -76,33 +76,25 @@ Building backend applications with **Java & Spring Boot** and exploring **AI-pow
 🚀 **Forward Deployed Engineering** — AI Solutions · Problem Solving
 
 ---
-
-📊 Coding Profiles
-
-<p align="left">
-
-<a href="https://leetcode.com/u/bhumikakumawat13/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/bhumika13gfg" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>](https://www.geeksforgeeks.org/profile/bhumika13gfg)
----
-
-## 📫 Connect With Me
+## 🔗 Connect & Coding Profiles
 
 <p align="left">
 
 <a href="YOUR_LINKEDIN_URL" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="YOUR_LEETCODE_URL" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" width="60" height="60" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="YOUR_GFG_URL" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gfg" width="60" height="60" alt="GeeksforGeeks"/>
 </a>
 
 </p>
-
----
-
-<div align="center">
 
 ### ☕ Java • 🤖 AI • 🚀 FDE
 
