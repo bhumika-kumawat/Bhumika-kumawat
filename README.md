@@ -77,7 +77,7 @@ Building backend applications with **Java & Spring Boot** and exploring **AI-pow
 
 ---
 
-## 📊 Coding Profiles
+[## 📊 Coding Profiles
 
 <p align="left">
 
@@ -87,10 +87,7 @@ Building backend applications with **Java & Spring Boot** and exploring **AI-pow
 
 <a href="https://www.geeksforgeeks.org/profile/bhumika13gfg" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-
-</p>
-
+</a>](https://www.geeksforgeeks.org/profile/bhumika13gfg)
 ---
 
 ## 📫 Connect With Me
