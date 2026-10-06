@@ -4,8 +4,7 @@
 
 ### ☕ Java Backend Developer | 🤖 Generative AI | 🚀 Forward Deployed Engineering
 
-Building backend applications with **Java & Spring Boot**  
-and exploring **AI-powered solutions with Spring AI and LLMs.**
+Building backend applications with **Java & Spring Boot** and exploring **AI-powered solutions with Spring AI and LLMs**.
 
 </div>
 
@@ -14,12 +13,10 @@ and exploring **AI-powered solutions with Spring AI and LLMs.**
 ## 👩‍💻 About Me
 
 - 💻 Backend Developer focused on **Java & Spring Boot**
-- 🌱 Currently exploring **Generative AI, Spring AI & LLM applications**
+- 🤖 Exploring **Generative AI, Spring AI & LLM applications**
 - 🔎 Learning **RAG, Vector Embeddings & AI application development**
-- 🚀 Exploring the **Forward Deployed Engineer** role
-- 🧩 Interested in solving real-world problems using **Backend + AI**
-- 🧠 Practicing **DSA & problem solving**
-- 📚 Currently strengthening my skills in **Java Backend & AI Engineering**
+- 🚀 Exploring **Forward Deployed Engineering**
+- 🧠 Strengthening **DSA & problem-solving skills**
 
 ---
 
@@ -27,81 +24,101 @@ and exploring **AI-powered solutions with Spring AI and LLMs.**
 
 <p align="left">
 
-<a href="https://www.java.com/">
-<img src="https://skillicons.dev/icons?i=java" width="50"/>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://spring.io/">
-<img src="https://skillicons.dev/icons?i=spring" width="50"/>
+<a href="https://spring.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="55" alt="Spring"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://spring.io/projects/spring-boot">
-<img src="https://skillicons.dev/icons?i=springboot" width="50"/>
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="55" height="55" alt="Spring Boot"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://hibernate.org/">
-<img src="https://skillicons.dev/icons?i=hibernate" width="50"/>
+<a href="https://hibernate.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="55" height="55" alt="Hibernate"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<a href="https://github.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://www.postman.com/">
-<img src="https://skillicons.dev/icons?i=postman" width="50"/>
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" height="55" alt="Postman"/>
 </a>
 
 </p>
 
 ---
 
-## 🤖 AI & Generative AI
+## 🚀 Areas of Focus
+
+☕ **Java Backend** — Java · Spring Boot · JPA · Hibernate · REST APIs
+
+🤖 **AI Engineering** — Spring AI · LLMs · RAG · Vector Embeddings
+
+🚀 **Forward Deployed Engineering** — AI Solutions · Problem Solving
+
+---
+
+## 📊 Coding Profiles
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<a href="https://leetcode.com/u/bhumikakumawat13/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
 
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-7B2CBF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Vector%20Embeddings-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge"/>
+<a href="https://www.geeksforgeeks.org/profile/bhumika13gfg" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
 
 </p>
 
 ---
 
-## 🚀 What I'm Building & Learning
+## 📌 Featured Projects
 
-```text
-Java Backend
-     │
-     ├── Spring Boot
-     ├── REST APIs
-     ├── Spring Data JPA
-     ├── Hibernate
-     └── SQL
-          │
-          ▼
-     Spring AI
-          │
-          ├── LLMs
-          ├── Prompt Engineering
-          ├── RAG
-          └── Vector Embeddings
-                  │
-                  ▼
-        AI-Powered Applications
-                  │
-                  ▼
-       Forward Deployed Engineering
+🔹 **Java & Spring Boot Projects**  
+Backend applications using Spring Boot, JPA, Hibernate, REST APIs and MySQL.
+
+🔹 **Spring AI Projects**  
+Exploring AI-powered applications using Spring AI, LLMs and RAG.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ☕ Java • 🤖 AI • 🚀 FDE
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
