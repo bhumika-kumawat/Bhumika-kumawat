@@ -79,21 +79,10 @@ Building backend applications with **Java & Spring Boot** and exploring **AI-pow
 ## 🔗 Connect & Coding Profiles
 
 <p align="left">
-
-<a href="YOUR_LINKEDIN_URL" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="YOUR_LEETCODE_URL" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="60" height="60" alt="LeetCode"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="YOUR_GFG_URL" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gfg" width="60" height="60" alt="GeeksforGeeks"/>
-</a>
-
+<a href="www.linkedin.com/in/
+bhumika-kumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhumika-kumawat" height="30" width="40" /></a>
+<a href=https://leetcode.com/u/bhumikakumawat13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhumikakumawat13" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/profile/bhumika13gfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhumika13gfg" height="30" width="40" /></a>
 </p>
 ### ☕ Java • 🤖 AI • 🚀 FDE
 
