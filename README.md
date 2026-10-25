@@ -14,7 +14,6 @@ Building backend applications with **Java & Spring Boot** and exploring **AI-pow
 
 - 💻 Backend Developer focused on **Java & Spring Boot**
 - 🤖 Exploring **Generative AI, Spring AI & LLM applications**
-- 🔎 Learning **RAG, Vector Embeddings & AI application development**
 - 🚀 Exploring **Forward Deployed Engineering**
 - 🧠 Strengthening **DSA & problem-solving skills**
 
